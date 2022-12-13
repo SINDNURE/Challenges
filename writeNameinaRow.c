@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 int main(){
  int i,j,k,n; 
@@ -6,11 +5,12 @@ int main(){
  scanf("%d",&n);
  
  for(i=0;i<n;i++){
-     for(j=0;i<n;i++){
      
+     for(j=0;j<i;j++){
      
+          printf("sevban\n");
  }
-     printf("Akif")
+
  }
  
     
